@@ -162,8 +162,12 @@ Jupyter Notebook         1 repo              ████████░░░�
 
 
 
+**Timeline**
 
- Last Updated on 25/12/2023 11:17:31 UTC
+![Lines of Code chart](https://raw.githubusercontent.com/yzl5203/yzl5203/master/assets/bar_graph.png)
+
+
+ Last Updated on 25/12/2023 11:27:58 UTC
 <!--END_SECTION:waka-->
   
 </td></tr>
