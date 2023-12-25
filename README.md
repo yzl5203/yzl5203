@@ -59,9 +59,9 @@
 
 <tr><td>
 <img width="100%" src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/work1.gif">
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/space.gif" style="width: 50%;">
-  <img src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/women.gif" style="width: 50%;">
+<div style="display: flex; width: 100%; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/space.gif">
+    <img src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/women.gif">
 </div>
 <!-- ### 🏢 Work Experience -->
 
@@ -81,7 +81,7 @@
   - 工作岗位：Web前端开发实习生
   - 工作内容：参与一站式数据治理与研发平台 DataSight 的开发与维护工作
 
-</td></tr> -->
+</td></tr>
 
 <tr><td>
 
