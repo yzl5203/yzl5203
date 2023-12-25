@@ -58,10 +58,12 @@
 </td></tr>
 
 <tr><td>
-<img width="100%" src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/work1.gif">
 <div style="display: flex;">
-    <img src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/space.gif" style="flex: 1;">
-    <img src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/women.gif" style="flex: 1;">
+    <img width="100%" src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/work1.gif">
+    <div style="display: flex; flex: 1;">
+        <img width="50%" src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/space.gif" style="flex: 1;">
+        <img width="50%" src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/women.gif" style="flex: 1;">
+    </div>
 </div>
 </td></tr>
 <!-- ### 🏢 Work Experience -->
