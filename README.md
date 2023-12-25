@@ -1,4 +1,4 @@
-<div align="center">
+![3D06BB6F](https://github.com/yzl5203/yzl5203/assets/82600544/f7730e12-bbc5-4880-8d13-d29fc5455b57)<div align="center">
   
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
@@ -58,6 +58,52 @@
 </td></tr>
 
 <tr><td>
+  
+### 📃 Recent Blog
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/astronaut.png" />
+
+<!-- START_SECTION:blog -->
+* <a href='https://blog.csdn.net/Clown_____/article/details/115580395?spm=1001.2014.3001.5502' target='_blank'>深度学习</a>🌟🌟🌟🌟🌟🌟
+* <a href='https://blog.csdn.net/Clown_____/article/details/122703417?spm=1001.2014.3001.5502' target='_blank'>Pytorch</a>🌟🌟🌟🌟🌟🌟
+* <a href='https://blog.csdn.net/Clown_____/article/details/123389924?spm=1001.2014.3001.5502' target='_blank'>Mybatis笔记</a>🌟🌟🌟🌟🌟
+* <a href='https://blog.csdn.net/Clown_____/article/details/95797000?spm=1001.2014.3001.5502' target='_blank'>Java网络编程</a>🌟🌟🌟🌟🌟
+</tr></td>
+
+<tr><td>
+
+### 🤾‍♂️ Funny Soul
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/artist.png" />
+
+<!-- START_SECTION:douban -->
+* <a href='https://book.douban.com/subject/4913064/' target='_blank'>活着</a> 📚📚📚📚📚📚 力荐- 2023-11-10
+* <a href='https://book.douban.com/subject/1034282/' target='_blank'>时间简史</a> 📚📚📚📚📚 力荐- 2023-11-10
+* <a href='https://book.douban.com/subject/26801314/' target='_blank'>人性的弱点</a> 📚📚📚📚📚 力荐- 2023-02-07
+* <a href='https://book.douban.com/subject/10517238/' target='_blank'>平凡的世界</a> 📚📚📚📚📚 力荐- 2023-02-07
+* <a href='https://book.douban.com/subject/10738023/' target='_blank'>了不起的盖茨比</a> 📚📚📚📚📚 力荐- 2023-02-07
+<!-- END_SECTION:douban -->
+
+</td></tr>
+
+<tr><td>
+  
+### ❤️ Music and Movie
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/technologist.png" />
+
+<!-- START_SECTION:brain -->
+* <a href='https://movie.douban.com/subject/1292722/' target='_blank'>泰坦尼克号</a> 🎬🎬🎬🎬🎬 - 2023-12-08
+* <a href='https://movie.douban.com/subject/1292052/' target='_blank'>肖申克的救赎</a> 🎬🎬🎬🎬🎬 - 2023-09-07
+* <a href='https://movie.douban.com/subject/1291546/' target='_blank'>霸王别姬</a> 🎬🎬🎬🎬🎬 - 2023-09-07
+* <a href='https://movie.douban.com/subject/1292720/' target='_blank'>阿甘正传</a> 🎬🎬🎬🎬🎬 - 2023-09-07
+* <a href='https://music.douban.com/subject/30382024/' target='_blank'>一路向北</a> 🎵🎵🎵🎵🎵 - 2023-12-08
+* <a href='https://music.douban.com/subject/3606728/' target='_blank'>Love Story</a> 🎵🎵🎵🎵🎵 - 2023-10-08
+* <a href='https://music.douban.com/subject/27619208/' target='_blank'>我</a> 🎵🎵🎵🎵🎵🎵🎵 - 2023-10-08
+<!-- END_SECTION:brain -->
+</td></tr>
+
+<tr><td>
 <div style="display: flex;">
     <img width="100%" src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/work1.gif">
   <div style="display: flex; justify-content: space-between;">
@@ -89,16 +135,7 @@
 <tr><td>
 
 <!-- ### 📃 Recent Blog -->
-<!--   
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/astronaut.png" /> -->
 
-<!-- START_SECTION:blog -->
-<!-- * <a href='https://blog.sunguoqi.com/posts/9f4f8f84/' target='_blank'>关于个人独立博客，我的折腾和思考</a> - 2023-12-09
-* <a href='https://blog.sunguoqi.com/posts/3eb6a074/' target='_blank'>Oh My Posh | Windows Terminal 美化指南</a> - 2023-07-15
-* <a href='https://blog.sunguoqi.com/posts/e7213992/' target='_blank'>小杨同学 の 第二大脑正在施工中。。。</a> - 2023-03-26
-* <a href='https://blog.sunguoqi.com/posts/abe837db/' target='_blank'>奔跑在自己的时区里，你好哇，我的22岁！</a> - 2023-02-25
-* <a href='https://blog.sunguoqi.com/posts/f3b61b38/' target='_blank'>让面试官眼前一亮，手把手带你打造个性化的 GitHub 首页</a> - 2023-01-30 -->
-<!-- END_SECTION:blog -->
 
 </td></tr>
 
@@ -120,34 +157,18 @@
 
 <tr><td>
 
-### 🤾‍♂️ Funny Soul
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/artist.png" />
-
-<!-- START_SECTION:douban -->
-* <a href='https://book.douban.com/subject/35193035/' target='_blank'>读过认知觉醒</a> 🌟🌟🌟🌟🌟 力荐- 2023-11-10
-* <a href='https://book.douban.com/subject/27040433/' target='_blank'>最近在读极简主义</a> 🌟🌟🌟🌟🌟 力荐- 2023-11-10
-* <a href='http://movie.douban.com/subject/1292052/' target='_blank'>看过肖申克的救赎</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-* <a href='http://movie.douban.com/subject/1292365/' target='_blank'>看过活着</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-* <a href='https://music.douban.com/subject/26567580/' target='_blank'>听过假如爱有天意</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-<!-- END_SECTION:douban -->
-
-</td></tr>
-
-<tr><td>
-
 ### 📊 WakaTime
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=yzl5203&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
+    srcset="https://github-readme-stats-ten-gilt.vercel.app/api?username=yzl5203&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=yzl5203&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
+    srcset="https://github-readme-stats-ten-gilt.vercel.app/api?username=yzl5203&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
     media="(prefers-color-scheme: light)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yzl5203&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
+  <img src="https://github-readme-stats-ten-gilt.vercel.app/api?username=yzl5203&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
 </picture>
 
 </td></tr>
