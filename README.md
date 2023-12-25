@@ -59,9 +59,9 @@
 
 <tr><td>
 <img width="100%" src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/work1.gif">
-<div style="display: flex; width: 100%;">
-    <img style="width: 50%;" src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/space.gif">
-    <img style="width: 50%;" src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/women.gif">
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/space.gif" style="width: 50%;">
+  <img src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/women.gif" style="width: 50%;">
 </div>
 <!-- ### 🏢 Work Experience -->
 
