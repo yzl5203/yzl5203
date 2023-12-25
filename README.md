@@ -198,8 +198,14 @@ Mac                      42 hrs 11 mins      ███████████�
 </table>
 
 
+
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/hr.gif" />
+
+<img width="100%" src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/work1.gif">
+<img width="50%" src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/space.gif">
+<img width="50%" src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/women.gif">
+<img width="100%" src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/coding.gif">
 
 <div align="center">
 
@@ -225,9 +231,9 @@ Mac                      42 hrs 11 mins      ███████████�
 <img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/right.png" />
 
 <!-- metrics 基础资料 -->
-<img width="150" src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/cxyduck.gif" />&emsp;
+<!-- <img width="150" src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/cxyduck.gif" />&emsp;
 <img src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/github-metrics/base.svg" />
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/cxyduck.gif" />
+&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/cxyduck.gif" /> -->
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
@@ -360,17 +366,17 @@ Mac                      42 hrs 11 mins      ███████████�
 <div align="center">
 
 <!-- just img 图片 -->
-<img width="36%" src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/githubgif.gif" />
+<!-- <img width="36%" src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/githubgif.gif" /> -->
 
 <!-- first form 第一个表格 -->
-<table>
+<!-- <table>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/github-metrics/people.followers.svg" alt="people.followers" /></td>
   </tr>
 </table>
-
+ -->
 <!-- second form 第二个表格 -->
-<table>
+<!-- <table>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/github-metrics/reactions.svg" alt="reactions" /></td>
@@ -395,10 +401,11 @@ Mac                      42 hrs 11 mins      ███████████�
     <td><img src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/github-metrics/stars.svg" alt="stars" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
   </tr>
-</table>
+</table> -->
 
-<img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
+<!-- <img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" /> -->
 
 <!-- just img 图片 -->
+<img height="100" alt="Thanks for visiting me"  src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/work.gif" />
 <img src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/icon.png" /></div>
 </div>
