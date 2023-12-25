@@ -59,11 +59,10 @@
 
 <tr><td>
 <img width="100%" src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/work1.gif">
-<div style="display: flex;">
-    <img width="50%" src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/space.gif">
-    <img width="50%" src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/women.gif">
+<div style="display: flex; width: 100%;">
+    <img style="width: 50%;" src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/space.gif">
+    <img style="width: 50%;" src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/women.gif">
 </div>
-<img width="100%" src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/coding1.gif">  
 <!-- ### 🏢 Work Experience -->
 
 
