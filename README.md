@@ -19,13 +19,13 @@
   
   <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="https://blog.sunguoqi.com/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
+<!--     <a href="https://blog.sunguoqi.com/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
     <a href="https://twitter.com/yzl5203/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
     <a href="https://www.youtube.com/@yzl5203"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
-    <a href="https://mp.sunguoqi.com"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
-    <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <a href="https://blog.csdn.net/weixin_50915462/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
-    <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
+    <a href="https://mp.sunguoqi.com"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp; -->
+<!--     <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp; -->
+    <a href="https://blog.csdn.net/Clown_____?type=blog"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
+    <a href="https://www.zhihu.com/people/clownzhu-62"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=yzl5203&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
@@ -59,7 +59,7 @@
 
 <tr><td>
   
-### 🏢 Work Experience
+<!-- ### 🏢 Work Experience -->
 
 
 
@@ -81,32 +81,32 @@
 
 <tr><td>
 
-### 📃 Recent Blog
-  
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/astronaut.png" />
+<!-- ### 📃 Recent Blog -->
+<!--   
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/astronaut.png" /> -->
 
 <!-- START_SECTION:blog -->
-* <a href='https://blog.sunguoqi.com/posts/9f4f8f84/' target='_blank'>关于个人独立博客，我的折腾和思考</a> - 2023-12-09
+<!-- * <a href='https://blog.sunguoqi.com/posts/9f4f8f84/' target='_blank'>关于个人独立博客，我的折腾和思考</a> - 2023-12-09
 * <a href='https://blog.sunguoqi.com/posts/3eb6a074/' target='_blank'>Oh My Posh | Windows Terminal 美化指南</a> - 2023-07-15
 * <a href='https://blog.sunguoqi.com/posts/e7213992/' target='_blank'>小杨同学 の 第二大脑正在施工中。。。</a> - 2023-03-26
 * <a href='https://blog.sunguoqi.com/posts/abe837db/' target='_blank'>奔跑在自己的时区里，你好哇，我的22岁！</a> - 2023-02-25
-* <a href='https://blog.sunguoqi.com/posts/f3b61b38/' target='_blank'>让面试官眼前一亮，手把手带你打造个性化的 GitHub 首页</a> - 2023-01-30
+* <a href='https://blog.sunguoqi.com/posts/f3b61b38/' target='_blank'>让面试官眼前一亮，手把手带你打造个性化的 GitHub 首页</a> - 2023-01-30 -->
 <!-- END_SECTION:blog -->
 
 </td></tr>
 
 <tr><td>
 
-### 🧠 Second Brain
+<!-- ### 🧠 Second Brain -->
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/technologist.png" />
+<!-- <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/technologist.png" /> -->
 
 <!-- START_SECTION:brain -->
-* <a href='https://brain.sunguoqi.com/web/frontend/tools/git/git.html' target='_blank'>Git</a> - 2023-12-08
+<!-- * <a href='https://brain.sunguoqi.com/web/frontend/tools/git/git.html' target='_blank'>Git</a> - 2023-12-08
 * <a href='https://brain.sunguoqi.com/web/frontend/tools/package-manage/npm.html' target='_blank'>npm</a> - 2023-09-07
 * <a href='https://brain.sunguoqi.com/web/frontend/tools/package-manage/pnpm.html' target='_blank'>pnpm</a> - 2023-09-07
 * <a href='https://brain.sunguoqi.com/web/frontend/tools/package-manage/yarn.html' target='_blank'>yarn</a> - 2023-09-07
-* <a href='https://brain.sunguoqi.com/web/frontend/tools/vscode/vscode.html' target='_blank'>Vscode 权威指南</a> - 2023-12-08
+* <a href='https://brain.sunguoqi.com/web/frontend/tools/vscode/vscode.html' target='_blank'>Vscode 权威指南</a> - 2023-12-08 -->
 <!-- END_SECTION:brain -->
 
 </td></tr>
