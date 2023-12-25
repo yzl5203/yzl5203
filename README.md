@@ -176,20 +176,19 @@
 
 
 <!--START_SECTION:waka-->
-  
-
+![Profile Views](http://img.shields.io/badge/Profile%20Views-186-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 21.1 kB Used in GitHub's Storage 
+> 📦 28.3 kB Used in GitHub's Storage 
  > 
-> 🏆 14 Contributions in the Year 2023
+> 🏆 24 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 2 Public Repositories 
  > 
-> 🔑 3 Private Repositories 
+> 🔑 4 Private Repositories 
  > 
 **I Mostly Code in Python** 
 
@@ -205,7 +204,7 @@ Jupyter Notebook         1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yzl5203/yzl5203/master/assets/bar_graph.png)
 
 
- Last Updated on 25/12/2023 11:27:58 UTC
+ Last Updated on 25/12/2023 15:35:03 UTC
 <!--END_SECTION:waka-->
   
 </td></tr>
