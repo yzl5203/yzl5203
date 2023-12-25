@@ -60,10 +60,10 @@
 <tr><td>
 <div style="display: flex;">
     <img width="100%" src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/work1.gif">
-    <div style="display: flex; flex: 1;">
-        <img width="50%" src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/space.gif" style="flex: 1;">
-        <img width="50%" src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/women.gif" style="flex: 1;">
-    </div>
+  <div style="display: flex; justify-content: space-between;">
+      <img width="49.5%" src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/space.gif" style="flex: 1;">
+      <img width="49.5%" src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/women.gif" style="align-self: flex-end;">
+  </div>
 </div>
 </td></tr>
 <!-- ### 🏢 Work Experience -->
