@@ -58,7 +58,12 @@
 </td></tr>
 
 <tr><td>
-  
+<img width="100%" src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/work1.gif">
+<div style="display: flex;">
+    <img width="50%" src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/space.gif">
+    <img width="50%" src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/women.gif">
+</div>
+<img width="100%" src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/coding1.gif">  
 <!-- ### 🏢 Work Experience -->
 
 
@@ -202,10 +207,7 @@ Mac                      42 hrs 11 mins      ███████████�
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/hr.gif" />
 
-<img width="100%" src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/work1.gif">
-<img width="50%" src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/space.gif">
-<img width="50%" src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/women.gif">
-<img width="100%" src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/coding.gif">
+
 
 <div align="center">
 
@@ -406,6 +408,6 @@ Mac                      42 hrs 11 mins      ███████████�
 <!-- <img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" /> -->
 
 <!-- just img 图片 -->
-<img height="100" alt="Thanks for visiting me"  src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/work.gif" />
-<img src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/icon.png" /></div>
+<img width="100" alt="Thanks for visiting me"  src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/work.gif" />
+<img  src="https://cdn.jsdelivr.net/gh/yzl5203/yzl5203/assets/images/icon.png" /></div>
 </div>
