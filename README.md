@@ -178,7 +178,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2054%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-206-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
 **🐱 My GitHub Data** 
 
@@ -219,18 +219,18 @@ Sunday                   2 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 35 mins        ███████████████████████░░   91.29 % 
-Text                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+Python                   1 hr 29 mins        ███████████████████████░░   91.40 % 
+Text                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
 
 🔥 Editors: 
-PyCharm                  1 hr 44 mins        █████████████████████████   100.00 % 
+PyCharm                  1 hr 37 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pythonProject            1 hr 44 mins        █████████████████████████   99.88 % 
-dmfb_path_test           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+pythonProject            1 hr 37 mins        █████████████████████████   99.87 % 
+dmfb_path_test           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 💻 Operating System: 
-Windows                  1 hr 44 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 37 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -247,7 +247,7 @@ Jupyter Notebook         1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yzl5203/yzl5203/master/assets/bar_graph.png)
 
 
- Last Updated on 07/01/2024 18:35:48 UTC
+ Last Updated on 08/01/2024 18:37:25 UTC
 <!--END_SECTION:waka-->
   
 </td></tr>
