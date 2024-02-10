@@ -184,8 +184,6 @@
 
 > 📦 556.2 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 3 Public Repositories 
@@ -245,7 +243,7 @@ Jupyter Notebook         1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yzl5203/yzl5203/master/assets/bar_graph.png)
 
 
- Last Updated on 09/02/2024 18:35:24 UTC
+ Last Updated on 10/02/2024 18:36:38 UTC
 <!--END_SECTION:waka-->
   
 </td></tr>
