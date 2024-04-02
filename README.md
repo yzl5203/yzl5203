@@ -217,18 +217,16 @@ Sunday                   2 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 mins              █████████████████████░░░░   82.86 % 
-Text                     0 secs              ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-dmfb_droplet_path_local  2 mins              █████████████████████░░░░   82.80 % 
-dmfb_module_placement    0 secs              ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -245,7 +243,7 @@ Jupyter Notebook         1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yzl5203/yzl5203/master/assets/bar_graph.png)
 
 
- Last Updated on 01/04/2024 18:35:31 UTC
+ Last Updated on 02/04/2024 18:36:03 UTC
 <!--END_SECTION:waka-->
   
 </td></tr>
