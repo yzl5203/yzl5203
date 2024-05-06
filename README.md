@@ -217,8 +217,7 @@ Sunday                   2 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 57 mins        █████████████████████████   99.99 % 
-CSV file                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Python                   1 hr 57 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
 PyCharm                  1 hr 57 mins        █████████████████████████   100.00 % 
@@ -244,7 +243,7 @@ Jupyter Notebook         1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yzl5203/yzl5203/master/assets/bar_graph.png)
 
 
- Last Updated on 05/05/2024 18:36:17 UTC
+ Last Updated on 06/05/2024 18:36:28 UTC
 <!--END_SECTION:waka-->
   
 </td></tr>
