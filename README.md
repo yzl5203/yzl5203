@@ -176,6 +176,8 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-119%20hrs%2051%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -190,6 +192,45 @@
  > 
 > 🔑 6 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+🌆 Daytime                20 commits          ███████░░░░░░░░░░░░░░░░░░   29.41 % 
+🌃 Evening                42 commits          ███████████████░░░░░░░░░░   61.76 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   30 commits          ███████████░░░░░░░░░░░░░░   44.12 % 
+Tuesday                  4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Wednesday                12 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+Thursday                 3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+Friday                   9 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+Saturday                 8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Sunday                   2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -204,7 +245,7 @@ Jupyter Notebook         1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yzl5203/yzl5203/master/assets/bar_graph.png)
 
 
- Last Updated on 15/06/2024 18:37:34 UTC
+ Last Updated on 16/06/2024 18:37:46 UTC
 <!--END_SECTION:waka-->
   
 </td></tr>
