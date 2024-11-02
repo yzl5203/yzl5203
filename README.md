@@ -176,13 +176,13 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-119%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-121%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 592.5 kB Used in GitHub's Storage 
+> 📦 592.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -217,16 +217,22 @@ Sunday                   2 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 23 mins             █████████░░░░░░░░░░░░░░░░   35.63 % 
+Docker                   19 mins             ███████░░░░░░░░░░░░░░░░░░   28.78 % 
+Python                   16 mins             ██████░░░░░░░░░░░░░░░░░░░   25.15 % 
+Text                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+Shell Script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  1 hr 6 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Ai_Customer              1 hr 4 mins         ████████████████████████░   96.52 % 
+Ai_post                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Ai_model                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 6 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -243,7 +249,7 @@ Jupyter Notebook         1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yzl5203/yzl5203/master/assets/bar_graph.png)
 
 
- Last Updated on 01/11/2024 18:43:59 UTC
+ Last Updated on 02/11/2024 18:40:52 UTC
 <!--END_SECTION:waka-->
   
 </td></tr>
