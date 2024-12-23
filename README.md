@@ -176,13 +176,15 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-171%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-177%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 556.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -217,18 +219,18 @@ Sunday                   3 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   6 hrs 22 mins       █████████████████████████   100.00 % 
+Python                   12 hrs 8 mins       █████████████████████████   100.00 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-PyCharm                  6 hrs 22 mins       █████████████████████████   100.00 % 
+PyCharm                  12 hrs 8 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-python-kaifa             6 hrs 14 mins       ████████████████████████░   97.80 % 
-Wencai                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-AllocationV2             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+python-kaifa             12 hrs 7 mins       █████████████████████████   99.93 % 
+Wencai                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 💻 Operating System: 
-Windows                  6 hrs 22 mins       █████████████████████████   100.00 % 
+Windows                  12 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -245,7 +247,7 @@ Jupyter Notebook         1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yzl5203/yzl5203/master/assets/bar_graph.png)
 
 
- Last Updated on 22/12/2024 18:40:14 UTC
+ Last Updated on 23/12/2024 18:42:39 UTC
 <!--END_SECTION:waka-->
   
 </td></tr>
