@@ -176,13 +176,15 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-186%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-186%20hrs%2036%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 556.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -217,21 +219,21 @@ Sunday                   3 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   21 hrs 16 mins      █████████████████████████   99.17 % 
-Markdown                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Python                   21 hrs 16 mins      █████████████████████████   98.92 % 
+Markdown                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-PyCharm                  21 hrs 27 mins      █████████████████████████   100.00 % 
+PyCharm                  21 hrs 30 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-python-kaifa             18 hrs 1 min        █████████████████████░░░░   84.00 % 
-DailyElectricitySales    3 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+python-kaifa             18 hrs 1 min        █████████████████████░░░░   83.79 % 
+DailyElectricitySales    3 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
 Wencai                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Windows                  21 hrs 27 mins      █████████████████████████   100.00 % 
+Windows                  21 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -248,7 +250,7 @@ Jupyter Notebook         1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yzl5203/yzl5203/master/assets/bar_graph.png)
 
 
- Last Updated on 25/12/2024 18:41:53 UTC
+ Last Updated on 26/12/2024 18:42:45 UTC
 <!--END_SECTION:waka-->
   
 </td></tr>
