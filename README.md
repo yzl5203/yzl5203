@@ -176,15 +176,13 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-203%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-206%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 623.4 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2024
+> 📦 623.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -219,19 +217,20 @@ Sunday                   3 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   16 hrs 52 mins      █████████████████████████   98.40 % 
-Markdown                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Python                   19 hrs 41 mins      █████████████████████████   99.39 % 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+RPMSpec                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-PyCharm                  17 hrs 9 mins       █████████████████████████   100.00 % 
+PyCharm                  19 hrs 48 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-DailyElectricitySales    17 hrs 7 mins       █████████████████████████   99.79 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+DailyElectricitySales    19 hrs 46 mins      █████████████████████████   99.82 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 💻 Operating System: 
-Windows                  17 hrs 9 mins       █████████████████████████   100.00 % 
+Windows                  19 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -249,7 +248,7 @@ Jupyter Notebook         1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yzl5203/yzl5203/master/assets/bar_graph.png)
 
 
- Last Updated on 31/12/2024 18:41:59 UTC
+ Last Updated on 01/01/2025 18:42:15 UTC
 <!--END_SECTION:waka-->
   
 </td></tr>
