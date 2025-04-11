@@ -176,13 +176,13 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-249%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-250%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 628.8 kB Used in GitHub's Storage 
+> 📦 628.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -217,18 +217,20 @@ Sunday                   3 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 58 mins        █████████████████████████   100.00 % 
+Python                   2 hrs 38 mins       ████████████████████████░   96.33 % 
+textmate                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
 
 🔥 Editors: 
-PyCharm                  1 hr 58 mins        █████████████████████████   100.00 % 
+PyCharm                  2 hrs 45 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-DailyElectricitySales    1 hr 26 mins        ██████████████████░░░░░░░   73.11 % 
-ai_csg_base              31 mins             ███████░░░░░░░░░░░░░░░░░░   26.62 % 
-SafetySupervision        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+DailyElectricitySales    1 hr 22 mins        █████████████░░░░░░░░░░░░   50.11 % 
+jhqxd                    52 mins             ████████░░░░░░░░░░░░░░░░░   31.91 % 
+ai_csg_base              29 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
+SafetySupervision        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Windows                  1 hr 58 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -246,7 +248,7 @@ Jupyter Notebook         1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yzl5203/yzl5203/master/assets/bar_graph.png)
 
 
- Last Updated on 10/04/2025 18:44:44 UTC
+ Last Updated on 11/04/2025 18:46:38 UTC
 <!--END_SECTION:waka-->
   
 </td></tr>
