@@ -176,13 +176,13 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-259%20hrs%2017%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 637.4 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -190,6 +190,45 @@
  > 
 > 🔑 9 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+🌆 Daytime                23 commits          ███████░░░░░░░░░░░░░░░░░░   26.74 % 
+🌃 Evening                50 commits          ███████████████░░░░░░░░░░   58.14 % 
+🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   35 commits          ██████████░░░░░░░░░░░░░░░   40.70 % 
+Tuesday                  6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+Wednesday                14 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+Thursday                 7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+Friday                   9 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+Saturday                 10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+Sunday                   5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -205,7 +244,7 @@ Jupyter Notebook         1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yzl5203/yzl5203/master/assets/bar_graph.png)
 
 
- Last Updated on 02/05/2025 18:47:00 UTC
+ Last Updated on 03/05/2025 18:44:49 UTC
 <!--END_SECTION:waka-->
   
 </td></tr>
