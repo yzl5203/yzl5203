@@ -182,9 +182,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 637.4 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
+> 📦 637.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -246,7 +244,7 @@ Jupyter Notebook         1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yzl5203/yzl5203/master/assets/bar_graph.png)
 
 
- Last Updated on 16/05/2025 18:48:00 UTC
+ Last Updated on 17/05/2025 18:45:10 UTC
 <!--END_SECTION:waka-->
   
 </td></tr>
