@@ -176,13 +176,15 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-259%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-259%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 637.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -217,16 +219,19 @@ Sunday                   5 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+CMake                    15 mins             ██████████░░░░░░░░░░░░░░░   41.91 % 
+Markdown                 11 mins             ████████░░░░░░░░░░░░░░░░░   31.23 % 
+C++                      9 mins              ███████░░░░░░░░░░░░░░░░░░   26.14 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  38 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+aima_task_sdk_example    38 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  38 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -244,7 +249,7 @@ Jupyter Notebook         1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yzl5203/yzl5203/master/assets/bar_graph.png)
 
 
- Last Updated on 23/05/2025 18:48:39 UTC
+ Last Updated on 24/05/2025 18:45:03 UTC
 <!--END_SECTION:waka-->
   
 </td></tr>
