@@ -184,8 +184,6 @@
 
 > 📦 637.5 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 3 Public Repositories 
@@ -219,19 +217,16 @@ Sunday                   5 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Bash                     11 mins             █████████████████████░░░░   85.66 % 
-C++                      1 min               ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-aima_task_sdk_example    13 mins             █████████████████████████   99.39 % 
-Code                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -249,7 +244,7 @@ Jupyter Notebook         1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yzl5203/yzl5203/master/assets/bar_graph.png)
 
 
- Last Updated on 01/06/2025 18:46:14 UTC
+ Last Updated on 05/06/2025 18:59:08 UTC
 <!--END_SECTION:waka-->
   
 </td></tr>
