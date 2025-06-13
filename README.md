@@ -184,8 +184,6 @@
 
 > 📦 637.5 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 3 Public Repositories 
@@ -219,15 +217,13 @@ Sunday                   5 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    0 secs              ██████████████░░░░░░░░░░░   55.06 % 
-Markdown                 0 secs              ███████████░░░░░░░░░░░░░░   44.94 % 
+Markdown                 0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
 VS Code                  0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-aima_task_sdk_example    0 secs              ██████████████░░░░░░░░░░░   55.06 % 
-agibot_a2_aimdk-dev0.6   0 secs              ███████████░░░░░░░░░░░░░░   44.94 % 
+agibot_a2_aimdk-dev0.6   0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
 Windows                  0 secs              █████████████████████████   100.00 % 
@@ -248,7 +244,7 @@ Jupyter Notebook         1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yzl5203/yzl5203/master/assets/bar_graph.png)
 
 
- Last Updated on 12/06/2025 18:49:47 UTC
+ Last Updated on 13/06/2025 18:49:30 UTC
 <!--END_SECTION:waka-->
   
 </td></tr>
