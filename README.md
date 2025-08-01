@@ -176,15 +176,13 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-288%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-289%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 556.7 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -219,16 +217,20 @@ Sunday                   3 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   4 hrs 28 mins       █████████████████████████   99.85 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Requirements.txt         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  4 hrs 28 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+DailyElectricitySales    2 hrs 47 mins       ████████████████░░░░░░░░░   62.16 % 
+qwen_server-v3.2         1 hr 41 mins        █████████░░░░░░░░░░░░░░░░   37.84 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -245,7 +247,7 @@ Jupyter Notebook         1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yzl5203/yzl5203/master/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2025 18:55:05 UTC
+ Last Updated on 01/08/2025 18:54:08 UTC
 <!--END_SECTION:waka-->
   
 </td></tr>
