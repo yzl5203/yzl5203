@@ -219,21 +219,16 @@ Sunday                   3 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-GitIgnore file           3 mins              ████████████████████░░░░░   80.07 % 
-Python                   0 secs              ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-Jupyter                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          3 mins              ████████████████████░░░░░   80.07 % 
-transformer.py           0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-SSSImages                0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -251,7 +246,7 @@ Jupyter Notebook         1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yzl5203/yzl5203/master/assets/bar_graph.png)
 
 
- Last Updated on 05/10/2025 18:43:17 UTC
+ Last Updated on 06/10/2025 18:48:01 UTC
 <!--END_SECTION:waka-->
   
 </td></tr>
