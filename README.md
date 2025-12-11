@@ -178,7 +178,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-311%20hrs%2022%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -219,16 +219,16 @@ Sunday                   3 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-A2D0021B700110           0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -246,7 +246,7 @@ Jupyter Notebook         1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yzl5203/yzl5203/master/assets/bar_graph.png)
 
 
- Last Updated on 10/12/2025 18:52:27 UTC
+ Last Updated on 11/12/2025 18:54:03 UTC
 <!--END_SECTION:waka-->
   
 </td></tr>
