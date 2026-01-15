@@ -176,7 +176,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-370%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-370%20hrs%2052%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -219,18 +219,18 @@ Sunday                   3 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 mins              █████████████████████████   100.00 % 
+Python                   39 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.00 % 
+VS Code                  39 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          3 mins              ███████████████████████░░   93.74 % 
-Ai_Customer              0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-taskflowVLA              0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+qwen_server-v3.4         34 mins             ██████████████████████░░░   88.00 % 
+Unknown Project          4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+Ai_Customer              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.00 % 
+Windows                  39 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -248,7 +248,7 @@ Jupyter Notebook         1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yzl5203/yzl5203/master/assets/bar_graph.png)
 
 
- Last Updated on 14/01/2026 18:56:21 UTC
+ Last Updated on 15/01/2026 19:01:05 UTC
 <!--END_SECTION:waka-->
   
 </td></tr>
