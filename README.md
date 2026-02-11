@@ -178,7 +178,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-377%20hrs%2023%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -219,18 +219,16 @@ Sunday                   3 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 22 mins        ███████████████████░░░░░░   77.25 % 
-JavaScript               24 mins             ██████░░░░░░░░░░░░░░░░░░░   22.75 % 
+Python                   1 hr 22 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Trae                     1 hr 47 mins        █████████████████████████   100.00 % 
+Trae                     1 hr 22 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-taskflowVLA              1 hr 22 mins        ███████████████████░░░░░░   77.25 % 
-robot-admin              24 mins             ██████░░░░░░░░░░░░░░░░░░░   22.75 % 
+taskflowVLA              1 hr 22 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 47 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 22 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -248,7 +246,7 @@ Jupyter Notebook         1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yzl5203/yzl5203/master/assets/bar_graph.png)
 
 
- Last Updated on 10/02/2026 19:38:11 UTC
+ Last Updated on 11/02/2026 19:33:41 UTC
 <!--END_SECTION:waka-->
   
 </td></tr>
