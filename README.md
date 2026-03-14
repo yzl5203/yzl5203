@@ -176,7 +176,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-379%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-380%20hrs%2042%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -219,16 +219,19 @@ Sunday                   3 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   44 mins             ██████████████████████░░░   87.90 % 
+Markdown                 6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  51 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+sz_data                  31 mins             ████████████████░░░░░░░░░   62.24 % 
+Unknown Project          16 mins             ████████░░░░░░░░░░░░░░░░░   32.57 % 
+qwen_server-v3.4         2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  51 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -246,7 +249,7 @@ Jupyter Notebook         1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yzl5203/yzl5203/master/assets/bar_graph.png)
 
 
- Last Updated on 13/03/2026 19:07:11 UTC
+ Last Updated on 14/03/2026 19:02:50 UTC
 <!--END_SECTION:waka-->
   
 </td></tr>
