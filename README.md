@@ -219,16 +219,18 @@ Sunday                   3 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 3 mins              █████████████░░░░░░░░░░░░   51.12 % 
+Python                   3 mins              ████████████░░░░░░░░░░░░░   48.88 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  6 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+model-select             5 mins              █████████████████████░░░░   82.54 % 
+robot-voice              1 min               ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  6 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -246,7 +248,7 @@ Jupyter Notebook         1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yzl5203/yzl5203/master/assets/bar_graph.png)
 
 
- Last Updated on 06/04/2026 19:35:20 UTC
+ Last Updated on 07/04/2026 19:36:02 UTC
 <!--END_SECTION:waka-->
   
 </td></tr>
