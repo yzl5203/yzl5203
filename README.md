@@ -190,52 +190,6 @@
  > 
 > 🔑 6 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-🌆 Daytime                20 commits          ███████░░░░░░░░░░░░░░░░░░   27.40 % 
-🌃 Evening                45 commits          ███████████████░░░░░░░░░░   61.64 % 
-🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   33 commits          ███████████░░░░░░░░░░░░░░   45.21 % 
-Tuesday                  4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-Wednesday                12 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-Thursday                 4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-Friday                   9 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-Saturday                 8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-Sunday                   3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-JavaScript               45 mins             ███████████████░░░░░░░░░░   60.85 % 
-Python                   22 mins             ███████░░░░░░░░░░░░░░░░░░   29.38 % 
-Text                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
-Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-
-🔥 Editors: 
-VS Code                  1 hr 15 mins        █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-141-148-178-11-9393-cpamp43 mins             ███████████████░░░░░░░░░░   58.26 % 
-report                   19 mins             ███████░░░░░░░░░░░░░░░░░░   26.13 % 
-Unknown Project          7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-插件                       2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-new-chat                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-
-💻 Operating System: 
-Windows                  1 hr 15 mins        █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -251,7 +205,7 @@ Jupyter Notebook         1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yzl5203/yzl5203/master/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2026 19:54:58 UTC
+ Last Updated on 24/07/2026 19:54:28 UTC
 <!--END_SECTION:waka-->
   
 </td></tr>
