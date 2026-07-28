@@ -176,8 +176,6 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-500%20hrs%2010%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -219,21 +217,46 @@ Sunday                   3 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               45 mins             ████████████████░░░░░░░░░   62.84 % 
-Python                   22 mins             ████████░░░░░░░░░░░░░░░░░   30.34 % 
-Text                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+Markdown                 3 hrs               ████████░░░░░░░░░░░░░░░░░   31.93 % 
+Python                   2 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
+JavaScript               2 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
+Text                     1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+HTML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 
 🔥 Editors: 
-VS Code                  1 hr 12 mins        █████████████████████████   100.00 % 
+VS Code                  9 hrs 23 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-141-148-178-11-9393-cpamp43 mins             ███████████████░░░░░░░░░░   60.16 % 
-report                   19 mins             ███████░░░░░░░░░░░░░░░░░░   26.98 % 
-Unknown Project          7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
-new-chat                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+report                   5 hrs 35 mins       ███████████████░░░░░░░░░░   59.42 % 
+变电审核智能体                  1 hr 42 mins        █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
+插件                       50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+大学生                      41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+云景智能体                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
 
 💻 Operating System: 
-Windows                  1 hr 12 mins        █████████████████████████   100.00 % 
+Windows                  9 hrs 23 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 9 hrs 23 mins (100.0%)
+
+✍️ 9,415 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 126,506,580 Input Tokens, 666,681 Output Tokens
+
+💵 $619.59 Estimated AI Cost This Week
+
+🧠 15 AI Sessions, 101 AI Prompts
+
+GPT                      9,069 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 264 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -251,7 +274,7 @@ Jupyter Notebook         1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yzl5203/yzl5203/master/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 19:43:15 UTC
+ Last Updated on 28/07/2026 20:00:09 UTC
 <!--END_SECTION:waka-->
   
 </td></tr>
