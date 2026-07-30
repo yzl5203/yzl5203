@@ -176,9 +176,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-496%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-497%20hrs%205%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-81%20hrs%2014%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-82%20hrs%204%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -221,45 +221,45 @@ Sunday                   3 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               2 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   34.33 % 
-Markdown                 1 hr 42 mins        ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
-Python                   1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
-Text                     1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
-JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+JavaScript               2 hrs 24 mins       ████████████░░░░░░░░░░░░░   49.37 % 
+Markdown                 1 hr 19 mins        ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+JSON                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+Python                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+HTML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 36 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 53 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-report                   2 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   38.83 % 
-变电审核智能体                  1 hr 42 mins        ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
-云景智能体                    1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-插件                       50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
-大学生                      41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+report                   1 hr 28 mins        ████████░░░░░░░░░░░░░░░░░   30.29 % 
+云景智能体                    1 hr 10 mins        ██████░░░░░░░░░░░░░░░░░░░   24.18 % 
+插件                       50 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+大学生                      41 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+变电审核智能体                  27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
 
 💻 Operating System: 
-Windows                  7 hrs 36 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 36 mins (100.0%)
+⏱ AI Coding Time: 4 hrs 53 mins (100.0%)
 
-✍️ 8,945 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 5,386 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 101,772,589 Input Tokens, 553,618 Output Tokens
+🔤 63,376,271 Input Tokens, 348,673 Output Tokens
 
-💵 $495.26 Estimated AI Cost This Week
+💵 $314.19 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 81 AI Prompts
+🧠 15 AI Sessions, 57 AI Prompts
 
-GPT                      9,028 lines         █████████████████████████   100.00 % 
+GPT                      5,533 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 119 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📝 Concise Prompter — average 97 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -278,7 +278,7 @@ Jupyter Notebook         1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yzl5203/yzl5203/master/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2026 19:51:54 UTC
+ Last Updated on 30/07/2026 20:01:33 UTC
 <!--END_SECTION:waka-->
   
 </td></tr>
