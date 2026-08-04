@@ -184,7 +184,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 608.7 kB Used in GitHub's Storage 
+> 📦 608.6 kB Used in GitHub's Storage 
  > 
 > 🏆 2 Contributions in the Year 2026
  > 
@@ -221,45 +221,43 @@ Sunday                   3 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               42 mins             ██████████░░░░░░░░░░░░░░░   38.87 % 
-Markdown                 36 mins             ████████░░░░░░░░░░░░░░░░░   33.83 % 
-Python                   12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-JSON                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-HTML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+JavaScript               34 mins             ████████████░░░░░░░░░░░░░   49.55 % 
+Markdown                 23 mins             █████████░░░░░░░░░░░░░░░░   34.82 % 
+JSON                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Python                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 
 🔥 Editors: 
-VS Code                  1 hr 48 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 8 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-云景智能体                    1 hr 10 mins        ████████████████░░░░░░░░░   65.25 % 
-Unknown Project          11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-插件                       10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-report                   10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
-变电审核智能体                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+云景智能体                    50 mins             ██████████████████░░░░░░░   73.55 % 
+Unknown Project          9 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+report                   8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
 
 💻 Operating System: 
-Windows                  1 hr 48 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 8 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 48 mins (100.0%)
+⏱ AI Coding Time: 1 hr 8 mins (100.0%)
 
-✍️ 3,155 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,601 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 31,720,088 Input Tokens, 157,337 Output Tokens
+🔤 21,772,452 Input Tokens, 111,179 Output Tokens
 
-💵 $152.70 Estimated AI Cost This Week
+💵 $112.20 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 25 AI Prompts
+🧠 4 AI Sessions, 18 AI Prompts
 
-GPT                      3,284 lines         █████████████████████████   100.00 % 
+GPT                      2,668 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 53 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📝 Concise Prompter — average 50 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -278,7 +276,7 @@ Jupyter Notebook         1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yzl5203/yzl5203/master/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2026 19:42:15 UTC
+ Last Updated on 04/08/2026 20:08:25 UTC
 <!--END_SECTION:waka-->
   
 </td></tr>
