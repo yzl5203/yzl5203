@@ -221,22 +221,48 @@ Sunday                   3 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 4 hrs 52 mins       █████████████░░░░░░░░░░░░   50.06 % 
+Python                   3 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   33.09 % 
+JavaScript               47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+Image (svg)              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Codex Vscode             7 hrs 40 mins       ████████████████████░░░░░   78.81 % 
+VS Code                  2 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+刷课                       3 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   39.73 % 
+report                   2 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   25.70 % 
+文档                       1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+Revision                 1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+云景智能体                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  9 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 9 hrs 44 mins (100.0%)
+
+✍️ 11,723 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 9,050,382 Input Tokens, 871,836 Output Tokens
+
+💵 $120.01 Estimated AI Cost This Week
+
+🧠 37 AI Sessions, 94 AI Prompts
+
+GPT                      11,023 lines        ███████████████████████░░   93.52 % 
+Codex-Vscode             764 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 659 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -254,7 +280,7 @@ Jupyter Notebook         1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yzl5203/yzl5203/master/assets/bar_graph.png)
 
 
- Last Updated on 11/08/2026 19:34:11 UTC
+ Last Updated on 12/08/2026 19:36:04 UTC
 <!--END_SECTION:waka-->
   
 </td></tr>
