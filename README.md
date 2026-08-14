@@ -176,9 +176,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-499%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-503%20hrs%2011%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-84%20hrs%2040%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-88%20hrs%2010%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -221,48 +221,48 @@ Sunday                   3 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 4 hrs 52 mins       █████████████░░░░░░░░░░░░   50.06 % 
-Python                   3 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   33.09 % 
-JavaScript               47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-Image (svg)              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+Python                   6 hrs 17 mins       ███████████████░░░░░░░░░░   59.75 % 
+Markdown                 1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
+Text                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+JavaScript               30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+RPMSpec                  30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
 
 🔥 Editors: 
-Codex Vscode             7 hrs 40 mins       ████████████████████░░░░░   78.81 % 
-VS Code                  2 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
+Codex Vscode             10 hrs 8 mins       ████████████████████████░   96.28 % 
+VS Code                  23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
 
 🐱‍💻 Projects: 
-刷课                       3 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   39.73 % 
-report                   2 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   25.70 % 
-文档                       1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-Revision                 1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-云景智能体                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+report                   7 hrs 20 mins       █████████████████░░░░░░░░   69.71 % 
+文档                       1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+Revision                 1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+云景智能体                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+微课                       7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 
 💻 Operating System: 
-Windows                  9 hrs 44 mins       █████████████████████████   100.00 % 
+Windows                  10 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 44 mins (100.0%)
+⏱ AI Coding Time: 10 hrs 23 mins (98.64%)
 
-✍️ 11,723 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 10,261 lines written by AI, 98 lines written by hand (99.05% AI-written)
 
-🔤 9,050,382 Input Tokens, 871,836 Output Tokens
+🔤 11,625,145 Input Tokens, 810,667 Output Tokens
 
-💵 $120.01 Estimated AI Cost This Week
+💵 $90.54 Estimated AI Cost This Week
 
-🧠 37 AI Sessions, 94 AI Prompts
+🧠 28 AI Sessions, 99 AI Prompts
 
-GPT                      11,023 lines        ███████████████████████░░   93.52 % 
-Codex-Vscode             764 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+GPT                      9,636 lines         ███████████████████████░░   92.72 % 
+Codex-Vscode             757 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 659 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🤖 AI-Driven — 99.05% of written lines came from AI
+📝 Concise Prompter — average 188 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.93% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -280,7 +280,7 @@ Jupyter Notebook         1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yzl5203/yzl5203/master/assets/bar_graph.png)
 
 
- Last Updated on 13/08/2026 19:33:47 UTC
+ Last Updated on 14/08/2026 19:28:13 UTC
 <!--END_SECTION:waka-->
   
 </td></tr>
