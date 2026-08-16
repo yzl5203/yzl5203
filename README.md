@@ -178,9 +178,9 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-504%20hrs%2032%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-89%20hrs%2028%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-89%20hrs%2031%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -221,46 +221,46 @@ Sunday                   3 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   6 hrs 17 mins       ███████████████░░░░░░░░░░   59.75 % 
-Markdown                 1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
-Text                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
-JavaScript               30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
-RPMSpec                  30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+Python                   6 hrs 17 mins       ███████████████░░░░░░░░░░   59.43 % 
+Markdown                 1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+Text                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+JavaScript               30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+RPMSpec                  30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 
 🔥 Editors: 
-Codex Vscode             10 hrs 8 mins       ████████████████████████░   96.28 % 
-VS Code                  23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+Codex Vscode             10 hrs 12 mins      ████████████████████████░   96.30 % 
+VS Code                  23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 
 🐱‍💻 Projects: 
-report                   7 hrs 20 mins       █████████████████░░░░░░░░   69.71 % 
-文档                       1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-Revision                 1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
-云景智能体                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-微课                       7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+report                   7 hrs 24 mins       █████████████████░░░░░░░░   69.87 % 
+文档                       1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+Revision                 1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+云景智能体                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+微课                       7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 
 💻 Operating System: 
-Windows                  10 hrs 32 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 23 mins (98.64%)
+⏱ AI Coding Time: 10 hrs 27 mins (98.65%)
 
 ✍️ 10,261 lines written by AI, 98 lines written by hand (99.05% AI-written)
 
-🔤 11,625,145 Input Tokens, 810,667 Output Tokens
+🔤 11,648,819 Input Tokens, 812,893 Output Tokens
 
-💵 $90.54 Estimated AI Cost This Week
+💵 $90.58 Estimated AI Cost This Week
 
-🧠 28 AI Sessions, 99 AI Prompts
+🧠 29 AI Sessions, 104 AI Prompts
 
 GPT                      9,636 lines         ███████████████████████░░   92.72 % 
 Codex-Vscode             757 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.05% of written lines came from AI
-📝 Concise Prompter — average 188 characters per prompt
+📝 Concise Prompter — average 182 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.93% of changed lines were hand-edited
 ```
@@ -280,7 +280,7 @@ Jupyter Notebook         1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yzl5203/yzl5203/master/assets/bar_graph.png)
 
 
- Last Updated on 15/08/2026 18:56:17 UTC
+ Last Updated on 16/08/2026 18:55:20 UTC
 <!--END_SECTION:waka-->
   
 </td></tr>
