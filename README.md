@@ -221,47 +221,44 @@ Sunday                   3 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 38 mins       █████████████████████░░░░   83.53 % 
-JavaScript               22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
-Python                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+Markdown                 46 mins             ███████████░░░░░░░░░░░░░░   45.09 % 
+Python                   31 mins             ████████░░░░░░░░░░░░░░░░░   30.61 % 
+JavaScript               22 mins             ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
 
 🔥 Editors: 
-Codex Vscode             2 hrs 46 mins       ██████████████████████░░░   87.67 % 
-VS Code                  23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+Codex Vscode             1 hr 39 mins        ████████████████████████░   97.32 % 
+VS Code                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
 
 🐱‍💻 Projects: 
-论文                       1 hr 39 mins        █████████████░░░░░░░░░░░░   52.44 % 
-刷课                       43 mins             ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
-report                   20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
-Ai_reverse-skill         16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-Unknown Project          9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+论文                       46 mins             ███████████░░░░░░░░░░░░░░   45.02 % 
+刷课                       43 mins             ███████████░░░░░░░░░░░░░░   42.17 % 
+Unknown Project          13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
 
 💻 Operating System: 
-Windows                  3 hrs 10 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 42 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 10 mins (100.0%)
+⏱ AI Coding Time: 1 hr 42 mins (100.0%)
 
-✍️ 2,132 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,472 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,225,690 Input Tokens, 323,363 Output Tokens
+🔤 981,353 Input Tokens, 201,731 Output Tokens
 
-💵 $4.37 Estimated AI Cost This Week
+💵 $6.87 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 29 AI Prompts
+🧠 5 AI Sessions, 8 AI Prompts
 
-GPT                      2,155 lines         █████████████████████████   100.00 % 
-Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      1,473 lines         █████████████████████████   100.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 137 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📝 Concise Prompter — average 363 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -280,7 +277,7 @@ Jupyter Notebook         1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yzl5203/yzl5203/master/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2026 21:21:53 UTC
+ Last Updated on 31/08/2026 22:58:09 UTC
 <!--END_SECTION:waka-->
   
 </td></tr>
