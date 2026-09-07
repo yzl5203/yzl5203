@@ -221,50 +221,50 @@ Sunday                   3 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 4 hrs 12 mins       ██████████████████░░░░░░░   72.99 % 
-Python                   23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-Text                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
-Batchfile                20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+Markdown                 4 hrs 22 mins       ███████████████░░░░░░░░░░   58.60 % 
+Python                   1 hr 29 mins        █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
+PowerShell               35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+Text                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+Batchfile                20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
 
 🔥 Editors: 
-Codex Vscode             4 hrs 46 mins       █████████████████████░░░░   82.72 % 
-VS Code                  57 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
-Unknown Editor           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Codex Vscode             6 hrs 31 mins       ██████████████████████░░░   87.48 % 
+VS Code                  54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+Unknown Editor           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 🐱‍💻 Projects: 
-new-chat-2               1 hr 25 mins        ██████░░░░░░░░░░░░░░░░░░░   24.76 % 
-Ai_kali                  58 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
-文档                       51 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
-f                        32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-Unknown Project          31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
+实验论文                     3 hrs 22 mins       ███████████░░░░░░░░░░░░░░   45.26 % 
+sgcc_experiment          1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+new-chat-2               1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+f                        32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+PentestGPT               28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
 
 💻 Operating System: 
-Windows                  5 hrs 46 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 41 mins (98.66%)
+⏱ AI Coding Time: 7 hrs 18 mins (97.92%)
 
-✍️ 4,956 lines written by AI, 173 lines written by hand (96.63% AI-written)
+✍️ 7,947 lines written by AI, 173 lines written by hand (97.87% AI-written)
 
-🔤 2,377,340 Input Tokens, 556,065 Output Tokens
+🔤 3,171,134 Input Tokens, 609,717 Output Tokens
 
-💵 $99.30 Estimated AI Cost This Week
+💵 $61.07 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 61 AI Prompts
+🧠 16 AI Sessions, 53 AI Prompts
 
-GPT                      5,048 lines         █████████████████████████   100.00 % 
+GPT                      8,005 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Qwythos                  0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.63% of written lines came from AI
-📝 Concise Prompter — average 121 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 3.31% of changed lines were hand-edited
+🤖 AI-Driven — 97.87% of written lines came from AI
+📝 Concise Prompter — average 452 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 2.12% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -282,7 +282,7 @@ Jupyter Notebook         1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yzl5203/yzl5203/master/assets/bar_graph.png)
 
 
- Last Updated on 06/09/2026 20:38:45 UTC
+ Last Updated on 07/09/2026 21:42:06 UTC
 <!--END_SECTION:waka-->
   
 </td></tr>
