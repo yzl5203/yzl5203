@@ -184,7 +184,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 608.7 kB Used in GitHub's Storage 
+> 📦 608.8 kB Used in GitHub's Storage 
  > 
 > 🏆 2 Contributions in the Year 2026
  > 
@@ -221,47 +221,45 @@ Sunday                   3 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   12 hrs 40 mins      ████████████░░░░░░░░░░░░░   46.96 % 
-Markdown                 10 hrs 23 mins      ██████████░░░░░░░░░░░░░░░   38.49 % 
-YAML                     1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
-PowerShell               32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
-JSON                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+Python                   9 hrs 51 mins       ██████████████░░░░░░░░░░░   54.02 % 
+Markdown                 5 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   30.69 % 
+YAML                     1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+JSON                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+Other                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 
 🔥 Editors: 
-Codex Vscode             24 hrs 23 mins      ███████████████████████░░   90.32 % 
-VS Code                  2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Codex Vscode             16 hrs 23 mins      ██████████████████████░░░   89.74 % 
+VS Code                  1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
 
 🐱‍💻 Projects: 
-实验论文                     17 hrs 15 mins      ████████████████░░░░░░░░░   63.90 % 
-能源电子论文                   4 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
-sgcc_experiment          4 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
-new-chat-2               18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-new-chat                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+实验论文                     11 hrs 17 mins      ███████████████░░░░░░░░░░   61.86 % 
+能源电子论文                   4 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   27.28 % 
+sgcc_experiment          1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
 
 💻 Operating System: 
-Windows                  26 hrs 59 mins      █████████████████████████   100.00 % 
+Windows                  18 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 55 mins (99.71%)
+⏱ AI Coding Time: 18 hrs 15 mins (100.0%)
 
-✍️ 23,111 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 11,467 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 10,244,778 Input Tokens, 1,860,218 Output Tokens
+🔤 6,636,229 Input Tokens, 1,110,955 Output Tokens
 
-💵 $236.30 Estimated AI Cost This Week
+💵 $194.32 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 91 AI Prompts
+🧠 11 AI Sessions, 51 AI Prompts
 
-GPT                      19,186 lines        █████████████████████░░░░   82.90 % 
-Codex-Vscode             3,958 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
+GPT                      7,517 lines         ████████████████░░░░░░░░░   65.51 % 
+Codex-Vscode             3,958 lines         █████████░░░░░░░░░░░░░░░░   34.49 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 620 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📝 Concise Prompter — average 415 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -280,7 +278,7 @@ Jupyter Notebook         1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yzl5203/yzl5203/master/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2026 21:01:00 UTC
+ Last Updated on 14/09/2026 21:56:54 UTC
 <!--END_SECTION:waka-->
   
 </td></tr>
