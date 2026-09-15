@@ -221,44 +221,43 @@ Sunday                   3 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   9 hrs 51 mins       ██████████████░░░░░░░░░░░   54.02 % 
-Markdown                 5 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   30.69 % 
-YAML                     1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-JSON                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-Other                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Python                   5 hrs 43 mins       █████████████████████░░░░   82.08 % 
+Markdown                 27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+Other                    25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
 
 🔥 Editors: 
-Codex Vscode             16 hrs 23 mins      ██████████████████████░░░   89.74 % 
-VS Code                  1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+Codex Vscode             6 hrs 39 mins       ████████████████████████░   95.30 % 
+VS Code                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
 
 🐱‍💻 Projects: 
-实验论文                     11 hrs 17 mins      ███████████████░░░░░░░░░░   61.86 % 
-能源电子论文                   4 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   27.28 % 
-sgcc_experiment          1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+能源电子论文                   4 hrs 22 mins       ████████████████░░░░░░░░░   62.59 % 
+实验论文                     2 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   33.72 % 
+sgcc_experiment          15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
 
 💻 Operating System: 
-Windows                  18 hrs 15 mins      █████████████████████████   100.00 % 
+Windows                  6 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 15 mins (100.0%)
+⏱ AI Coding Time: 6 hrs 58 mins (100.0%)
 
-✍️ 11,467 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 4,034 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 6,636,229 Input Tokens, 1,110,955 Output Tokens
+🔤 2,910,009 Input Tokens, 443,925 Output Tokens
 
-💵 $194.32 Estimated AI Cost This Week
+💵 $44.97 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 51 AI Prompts
+🧠 5 AI Sessions, 27 AI Prompts
 
-GPT                      7,517 lines         ████████████████░░░░░░░░░   65.51 % 
-Codex-Vscode             3,958 lines         █████████░░░░░░░░░░░░░░░░   34.49 % 
+GPT                      2,209 lines         ██████████████░░░░░░░░░░░   54.76 % 
+Codex-Vscode             1,825 lines         ███████████░░░░░░░░░░░░░░   45.24 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 415 characters per prompt
+📝 Concise Prompter — average 287 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -278,7 +277,7 @@ Jupyter Notebook         1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yzl5203/yzl5203/master/assets/bar_graph.png)
 
 
- Last Updated on 14/09/2026 21:56:54 UTC
+ Last Updated on 15/09/2026 21:37:18 UTC
 <!--END_SECTION:waka-->
   
 </td></tr>
