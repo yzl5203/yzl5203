@@ -221,45 +221,22 @@ Sunday                   3 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   5 hrs 43 mins       █████████████████████░░░░   82.08 % 
-Markdown                 27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-Other                    25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
-JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Codex Vscode             6 hrs 39 mins       ████████████████████████░   95.30 % 
-VS Code                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-能源电子论文                   4 hrs 22 mins       ████████████████░░░░░░░░░   62.59 % 
-实验论文                     2 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   33.72 % 
-sgcc_experiment          15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  6 hrs 58 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 58 mins (100.0%)
-
-✍️ 4,034 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 2,910,009 Input Tokens, 443,925 Output Tokens
-
-💵 $44.97 Estimated AI Cost This Week
-
-🧠 5 AI Sessions, 27 AI Prompts
-
-GPT                      2,209 lines         ██████████████░░░░░░░░░░░   54.76 % 
-Codex-Vscode             1,825 lines         ███████████░░░░░░░░░░░░░░   45.24 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 287 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -277,7 +254,7 @@ Jupyter Notebook         1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yzl5203/yzl5203/master/assets/bar_graph.png)
 
 
- Last Updated on 15/09/2026 21:37:18 UTC
+ Last Updated on 16/09/2026 21:32:04 UTC
 <!--END_SECTION:waka-->
   
 </td></tr>
